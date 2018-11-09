@@ -1,2 +1,5 @@
+from argparse import ArgumentParser
+
 def create_parser():
-    pass
+    parser = ArgumentParser()
+    return parser

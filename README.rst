@@ -3,10 +3,10 @@ pgbackup
 
 CLI for backing up remote PostgreSQL database either locally or to S3
 
-Preparing the Development
--------------------------
+Preparing the Development Environment
+-------------------------------------
 
-1. Ensure the person is using ``pip`` and ``pipenv`` are installed.
+1. Ensure that ``pip`` and ``pipenv`` are installed.
 2. Clone the repository ``git clone git@github.com/wargus85/pgbackup``
 3. ``cd`` into the repository
 4. Fetch development dependencies ``make install``
@@ -32,7 +32,7 @@ Local Example w/ local path:
 Running Tests
 -------------
 
-Run tests locall using ``make`` if virtualenv is Activate
+Run tests locally using ``make`` if virtualenv is Activate
 
 ::
 

@@ -2,6 +2,7 @@ pgbackup
 ========
 
 CLI for backing up remote PostgreSQL database either locally or to S3
+This project is part of the Python3 for System Admins course on Linux Academy
 
 Preparing the Development Environment
 -------------------------------------
